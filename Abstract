@@ -1,0 +1,30 @@
+                An analysis of depression detection using machine learning and feature selection techniques
+                                              By: - Sai Madu Krishna
+                                                      Abstract
+
+
+Depression has emerged as a prevalent psychological illness, and 
+the pervasive utilisation of social media platforms has engendered novel concepts for the detection of diverse mental disorders. 
+Globally, a significant number of adolescents and adults suffer from melancholy at this time.
+Failing to identify depression in its early stages or providing opportune counselling for an affected individual may result in significant complications. 
+It is among the primary causes cited in support of suicidal cases. 
+However, it is paradoxical that society as a whole continues to reject the classification of depression as a mental disorder, 
+resulting in a considerable proportion of depressed individuals going undiagnosed and untreated.
+Presently, the majority of research employs a single detection method, and the low recognition rate is frequently
+the result of an unbalanced class distribution. Furthermore, the accuracy of recognition is compromised 
+when high-dimensional data sets contain an excessive quantity of extraneous or repeated attributes. 
+This paper will propose feature selection and machine learning techniques for depression user detection in order to address this issue. 
+In this work will used novel machine learning and feature selection techniques for the classification and detection of depression. 
+To develop this system will used depression dataset from the GitHub ,
+also will follow some key data preprocessing techniques for cleaning and labelling, 
+after this will applied feature selection techniques that select the most significant features from the input dataset, 
+next split the dataset into two from training and testing ratio. 
+Then will applied supervised machine learning techniques for detection of depression, 
+finally will calculate the performance of machine learning models in terms of accuracy, recall, f1-score and precision measure with classification report 
+and confusion metrix. 
+The experimental results will show the design machine learning models outperform base models in terms of all measures. 
+This work will implement on python simulation tool. 
+This research is anticipated to contribute to the advancement of techniques for detecting depression in social networks,
+thus establishing the basis for future research.
+
+
